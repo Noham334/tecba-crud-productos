@@ -1,6 +1,6 @@
 # Proyecto CRUD Simples con PHP
 
-###Autor: Israel Hurtado, TECBA
+### Autor: Israel Hurtado, TECBA
 
 Este repositorio contiene un ejemplo de proyecto CRUD (Crear, Leer, Actualizar y Eliminar) simple utilizando PHP con MySQL.
 
