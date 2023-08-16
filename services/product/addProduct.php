@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
       // cerrar consulta
       $stmt->close();
    } else {
-      echo "<script>alert('Por favor, preencha todos os campos.')</script>";
+      echo "<script>alert('Por favor, llenar todos campos.')</script>";
    }
 }
 //cerrar conexion
